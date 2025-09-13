@@ -1,0 +1,6 @@
+x64/
+Networking/x64/
+Networking.vcxproj
+Networking.vcxproj.filters
+Networking.vcxproj.user
+.vs/
